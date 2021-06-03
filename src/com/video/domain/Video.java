@@ -1,6 +1,5 @@
 package com.video.domain;
 
-import java.net.URL;
 import java.util.List;
 
 public class Video {
